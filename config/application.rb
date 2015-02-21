@@ -24,5 +24,6 @@ module ToyApp
     config.active_record.raise_in_transactional_callbacks = true
 
     # this should be a new thing
+    # this should most for sure be new thing
   end
 end
