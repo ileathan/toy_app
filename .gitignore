@@ -5,6 +5,7 @@
 #   git config --global core.excludesfile '~/.gitignore_global'
 
 # Ignore the .idea directory
+/.idea/*
 /.idea
 
 # Ignore bundler config.
